@@ -6,3 +6,5 @@ learning git 1
 learning git 2
 
 learn git for mypr1
+
+learn git for mypr2
